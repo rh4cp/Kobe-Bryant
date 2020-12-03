@@ -1,0 +1,215 @@
+
+.Tittle{
+
+  background-image: none;
+  padding:1px;
+  margin:15px;
+  color: black;
+  text-shadow:
+  /* Outline */
+  -1px -1px 0 white,
+  1px -1px 0 white,
+  -1px 1px 0 white,
+  1px 1px 0 white,  
+  -2px 0 0 white,
+  2px 0 0 white,
+  0 2px 0 white,
+  0 -2px 0 white; /* Terminate with a semi-colon */
+  font-size:200px;
+  float: center;
+  width: 85%;
+  height:350px;
+  font-family: 'Permanent Marker', cursive;
+ 
+}
+
+
+
+.Kobe1{ 
+
+  border: solid white; 
+	width:450px; 
+	height:700px; 
+	text-align:left; 
+	background-color:gold; 
+	word-wrap: break-word; /* words won't go from the boundry */ 
+	margin: 50px 5px auto; 
+	/* top, left, bottom*/ 
+	padding: 100px 100px 100px; 
+	float: center; 
+  font-family: 'Permanent Marker', cursive;
+  background-image: none;
+  font-family: 'Bebas Neue', cursive;
+
+} 
+
+div{
+
+background-color: gold;
+height: 250px;
+width:400px;
+border:5px solid black;
+padding: 15px;
+margin: 12px;
+border-color: white;
+background-image: none; 
+font-family: 'Bebas Neue', cursive;
+
+}
+
+body{
+
+  background-color: white;
+  background-image: url("https://i.ibb.co/sKNcm5n/Kobe-Drawing.jpg");
+  font-family: 'Bebas Neue', cursive;
+
+}
+
+header{
+
+  font-family: 'Bebas Neue', cursive;
+  background-color:#000066;
+  color:#FFFFFF;
+  width:170%;
+  height:300px;
+  border:5px solid black;
+  padding: 20px;
+  margin:2px;
+  text-align:left;
+
+}
+  
+
+.logo image{
+
+  float: left;
+  height: 50px;
+  width:150px;
+}
+
+
+ nav{
+
+  text-decoration: none;
+  font-family: 'Permanent Marker', cursive;
+ 
+  }
+
+  
+ 
+  nav li{
+
+    display: initial;
+    list-style-type:  none;
+    height:30px;
+    line-height:20px;
+    padding:0 20px;
+    text-decoration: none;
+  
+  }
+
+  :hover{
+
+  background: #000066;
+  transition: background .3s;
+  color:#fdb927;
+  text-decoration:none;
+  cursor:pointer;
+
+  }
+
+  .nav-link{
+
+  color:#fdb927;
+  text-decoration:none;
+
+  }
+
+  a:link{
+
+    text-decoration: none;
+
+    }
+    
+    a:visited{
+    
+    text-decoration: none;
+    
+    }
+    
+    a:hover{
+    
+    text-decoration: underline;
+    
+    }
+    
+    a:active{
+    
+    text-decoration: underline;
+    
+    }
+
+  aside{
+
+    background-color:none;
+      widows:20px;
+      height:100px;
+    
+  }
+ 
+  section{
+    
+    width: 100%;
+    height: auto;
+    text-align:center
+
+  }
+
+article{
+    background-color:white;
+    width: 100%;
+    height: auto;
+    text-align:center
+
+  }
+  
+  footer{
+    background-color:none;
+    width: 100%;
+    height: auto;
+    text-align:center
+    
+  }
+
+  footer{
+    
+    padding: 10px;
+    margin:10%;
+    color:white;
+    text-emphasis: inherit;
+    color: white;
+      text-shadow:
+      /* Outline */
+      -1px -1px 0 black,
+      1px -1px 0  black,
+      -1px 1px 0  black,
+      1px 1px 0   black,  
+      -1px 0 0 black,
+      1px 0 0 black,
+      0 1px 0 black,
+      0 -1px 0 black; /* Terminate with a semi-colon */
+  
+  }
+    
+  img {
+
+    width:150px;
+    height:150px;
+    padding: 10px;
+    margin:10%;
+
+}
+
+
+/* Start http://www.cursors-4u.com */ * {cursor: url(https://cur.cursors-4u.net/sports/spo-3/spo251.cur), auto !important;} /* End http://www.cursors-4u.com */   
+
